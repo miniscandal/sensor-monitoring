@@ -1,0 +1,15 @@
+.messages_received {
+    height: 250px;
+    padding-left: 1rem;
+    overflow-y: auto;
+    background-color: #81bece;
+    border: solid 1px #81bece;
+}
+
+.messages_received > *{
+    margin: 1rem 0;
+}
+
+.messages_received--hide {
+    height: 3.1rem;
+}

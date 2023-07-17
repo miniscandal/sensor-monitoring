@@ -1,0 +1,20 @@
+.field {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+}
+
+.field > input {
+    border: solid 2px #81bece;
+    padding: 0.5rem;
+    outline: none;
+    font-size: 1rem;
+    font-weight: bold;
+    color: green;
+    background-color: #f0f0f0;
+}
+
+.field > span {
+    color: #ea592a;
+}

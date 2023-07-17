@@ -1,0 +1,11 @@
+.icon_title {
+    display: flex;
+}
+
+.icon_title--column {
+    flex-direction: column;
+}
+
+.icon_title--column > *:last-child {
+    padding: 0.5rem 0 0 3px;
+}

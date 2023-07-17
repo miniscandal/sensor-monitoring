@@ -1,0 +1,29 @@
+.unordered_list {
+    user-select: none;
+}
+
+.unordered_list--flex_row {
+    display: flex;
+}
+
+.unordered_list--flex_row > li {
+    margin-right: 1rem;
+}
+
+.unordered_list--flex_row > li:last-child {
+    margin-right: 0;
+}
+
+.unordered_list--buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.unordered_list--buttons > li * {
+    pointer-events: none;
+}
+
+.unordered_list--buttons > li:hover {
+    transform: scale3d(120%, 120%, 120%);
+}

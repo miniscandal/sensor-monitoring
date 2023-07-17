@@ -1,0 +1,16 @@
+.attributes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: solid 1px #81bece;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.attributes > div {
+    margin: 1rem;
+}
+
+.attributes--hide {
+    height: 6.1rem;
+}

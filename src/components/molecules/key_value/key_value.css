@@ -1,0 +1,11 @@
+.key_value {
+    display: flex;
+}
+
+.key_value--row {
+    align-items: center;
+}
+
+.key_value--column {
+    flex-direction: column;
+}

@@ -1,0 +1,21 @@
+.shell_help {
+    height: 10rem;
+    padding: 1rem;
+    overflow-y: auto;
+    background-color: #81bece;
+}
+
+.shell_help--hide {
+    height: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.shell_help > div:nth-child(even) {
+    margin: 1rem 0;
+}
+
+.shell_help > div > *:last-child {
+    margin-left: 4rem;
+    margin-top: 0.5rem;
+}

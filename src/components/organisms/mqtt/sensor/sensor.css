@@ -1,0 +1,67 @@
+.sensor {
+    width: 150px;
+    padding: 1rem;
+    border: solid 1px #81bece;
+    border-radius: 6px;
+    background-color: #ece8e7;
+    position: relative;
+}
+
+.sensor > div {
+    margin-bottom: 1rem;
+}
+
+.sensor > div:last-child {
+    margin-bottom: 0;
+}
+
+.sensor__div--status {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+}
+
+.sensor__div--id {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.sensor__div--id > *:first-child {
+    margin-bottom: 0.5rem;
+}
+
+.sensor__div--values {
+    display: flex;
+    justify-content: space-around;
+}
+
+.sensor__div--unordered_list {
+    display: flex;
+    justify-content: center;
+    border: solid 2px #81bece;
+    border-radius: 6px;
+    padding: 0.2rem;
+}
+
+.sensor__div--unordered_list_hide {
+    display: none;
+}
+
+.sensor--status_off {
+    background-color:#bec9ca;
+}
+
+.sensor--status_off .item_list[data-action='offOn'] {
+    background-color:#fe8535;
+    border-radius: 6px;
+}
+
+.sensor--status_update {
+    background-color: #fab036;
+}
+
+.sensor--status_update .item_list[data-action='cancel'] {
+    background-color:#fe8535;
+    border-radius: 6px;
+}

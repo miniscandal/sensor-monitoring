@@ -1,0 +1,23 @@
+.shell {
+    width: 100%;
+    max-width: 500px;
+    border: solid 1px #81bece;
+    border-radius: 6px;
+    background-color: #f0f0f0;
+}
+
+.shell_sticky {
+    position: sticky;
+    top: 4rem;
+    z-index: 1;
+}
+
+.shell_sticky {
+    top: 4rem;
+    box-shadow: 0px 10px 15px #3c4e5c;
+    transition: box-shadow 0.5s;
+}
+
+.shell > section {
+    margin: 1rem;
+}

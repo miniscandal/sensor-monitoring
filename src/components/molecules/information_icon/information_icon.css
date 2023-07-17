@@ -1,0 +1,15 @@
+.information_icon {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 350px;
+    height: 4rem;
+    padding: 1rem;
+    border: solid 1px #8fa329;
+    border-radius: 6px;
+    background-color: #ece8e7;
+}
+
+.information_icon > *:first-child {
+    margin-right: 1rem;
+}

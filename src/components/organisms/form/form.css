@@ -1,0 +1,22 @@
+.form__div--fields {
+    margin-bottom: 1rem;
+}
+
+.form__div--submit {
+    display: flex;
+    justify-content: end;
+}
+
+.form__div--submit > input {
+    padding: 0.5rem 2rem;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    background-color: #8fa329;
+    filter: brightness(100%);
+}
+
+.form__div--submit > input:hover {
+    cursor: pointer;
+    filter: brightness(95%);
+}

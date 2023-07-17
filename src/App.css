@@ -1,0 +1,69 @@
+@font-face {
+    font-family: 'Oxygen Regular';
+    src: url('assets/fts/oxygen/Oxygen-Regular.ttf');
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Oxygen Regular';
+}
+
+body {
+    width: 95vw;
+    max-width: 800px;
+    margin: auto;
+    color: #453c41;
+    background-color: #f0f0f0;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    height: 100px;
+}
+
+ul {
+    list-style: none;
+}
+
+.font--bold { font-weight: bold; }
+
+.font--normal { font-weight: normal; }
+
+.color--f0f0f0 { color: #f0f0f0; }
+
+.color--453c41 { color: #453c41; }
+
+.color--81bece { color: #81bece; }
+
+.color--ea592a { color: #ea592a; }
+
+.color--8fa329 { color: #8fa329; }
+
+.color--d1d9dc { color: #d1d9dc; }
+
+.color--3c4e5c { color: #3c4e5c; }
+
+.color--ece8e7 { color: #ece8e7; }
+
+.color--ecc424 { color: #ecc424; }
+
+.color--00457e { color: #00457e; }
+
+.color--e1ecf2 { color: #e1ecf2; }
+
+.color--96aab7 { color: #96aab7; }
+
+.color--847c2c { color: #847c2c; }
+
+.color--cfdbda { color: #cfdbda; }
+
+.color--c9d46c { color: #c9d46c; }
+
+.color--bec9ca { color: #bec9ca; }
+
+.color--fab036 { color: #fab036; }
+
+.color--fe8535 { color: #fe8535; }

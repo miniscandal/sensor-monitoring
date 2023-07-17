@@ -1,0 +1,13 @@
+.icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon--low {
+    font-size: 1.5rem;
+}
+
+.icon--medium {
+    font-size: 2.5rem;
+}

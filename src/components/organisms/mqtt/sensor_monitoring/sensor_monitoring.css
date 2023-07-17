@@ -1,0 +1,19 @@
+.sensor_monitoring > div {
+    margin-bottom: 2rem;
+}
+
+.sensor_monitoring__div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: solid 1px #81bece;
+    border-radius: 6px;
+}
+
+.sensor_monitoring__div > div {
+    margin: 1rem;
+}
+
+.sensor_monitoring__div > div:nth-child(even) {
+    margin-left: 1rem;
+}
