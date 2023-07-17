@@ -19,17 +19,18 @@ Los sensores son emulados por un programa desarrollado en python.
    allow_anonymous true
    ```
 3. Abre una terminal en la carpeta de istalación.
-
 4. Ejecuta el comando `./mosquitto.exe -c C:\mosquitto.conf -v` para  
    iniciar el broker.
-5. Requieres del siguiente repositorio [emulator-device-mqtt](https://react.dev/) para
-   ejecutar un emulador de sensor de temperatura.
+5. Requieres del siguiente repositorio
+   [sensor-emulator](https://github.com/miniscandal/temperature-sensor-emulator)
+   que sirve como un emulador  
+   sensor de temperatura.
 
 ## Instalación
 
 ≧◠‿◠≦
 
-1. Clona el repositorio `git clone` en tu computadora.
+1. Clona el repositorio `git clone https://github.com/miniscandal/sensor-monitoring` en tu computadora.
 2. Abre una terminal en la carpeta del proyecto.
 3. Ejecuta el comando `npm install` para instalar las dependencias del proyecto.
 4. Ejecuta el comando `npm run dev` para iniciar la aplicación.
@@ -37,6 +38,8 @@ Los sensores son emulados por un programa desarrollado en python.
 ## Uso
 
 ≧◠‿◠≦
+
+<img src="./docs/picture/web-capture-01.jpeg" width="540">
 
 ## Tecnologías
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
