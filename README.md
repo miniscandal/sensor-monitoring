@@ -50,8 +50,8 @@ Los sensores son emulados por un programa desarrollado en python.
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Mosquitto](https://img.shields.io/badge/Mosquitto-%233C5280.svg?style=for-the-badge)
 ![MQTT](https://img.shields.io/badge/MQTT-%23007ACC.svg?style=for-the-badge&logo=MQTT&logoColor=white)
-* Atomic Desing
-* Vite
+![Atomic Design](https://img.shields.io/badge/Atomic%20Design-red.svg?style=for-the-badge&logo=atomic-design&logoColor=white)
+![REST API](https://img.shields.io/badge/API%20Rest-EC9704.svg?style=for-the-badge&logo=api&logoColor=white)
 
 ## Aprendizajes
 
