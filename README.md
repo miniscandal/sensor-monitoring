@@ -43,15 +43,15 @@ Los sensores son emulados por un programa desarrollado en python.
 
 ## Tecnologías
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Terminal](https://img.shields.io/badge/Terminal-%23000000.svg?style=for-the-badge)  
+![Terminal](https://img.shields.io/badge/Terminal-%23474745.svg?style=for-the-badge)  
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Mosquitto](https://img.shields.io/badge/Mosquitto-%233C5280.svg?style=for-the-badge)
 ![MQTT](https://img.shields.io/badge/MQTT-%23007ACC.svg?style=for-the-badge&logo=MQTT&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-%2348494a.svg?style=for-the-badge)
 ![Atomic Design](https://img.shields.io/badge/Atomic%20Design-red.svg?style=for-the-badge&logo=atomic-design&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-EC9704.svg?style=for-the-badge&logo=api&logoColor=white)
 
 ## Aprendizajes
 
